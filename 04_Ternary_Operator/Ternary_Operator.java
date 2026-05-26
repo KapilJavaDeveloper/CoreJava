@@ -9,9 +9,10 @@ public class Ternary_Operator {
         result = n%2==0 ? 10 : 20 ;
 
         res = n%2==0 ? "even" : "odd"  ;
-        
+
         System.out.println(result) ;
         System.out.println(res) ;
+        
     }
     
 }

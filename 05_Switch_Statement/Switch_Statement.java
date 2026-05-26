@@ -36,9 +36,9 @@ public class Switch_Statement {
 
             default:
             System.out.println("Unexpected Day") ;
-
-
         }
+
+
     }
 
     

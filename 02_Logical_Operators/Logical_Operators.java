@@ -17,14 +17,6 @@ public class Logical_Operators {
 
         boolean result3 = !result2 ;
         System.out.println(result3) ; 
-
-
-
-
-
-
-
-
     }
     
 }
